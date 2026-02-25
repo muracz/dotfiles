@@ -125,7 +125,7 @@ endif
 
 try
 "   colorscheme desert
-   colorscheme solarized
+"   colorscheme solarized
    catch
 endtry
 
